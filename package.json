@@ -1,0 +1,25 @@
+{
+  "name": "wy-just-tech-news",
+  "version": "1.0.0",
+  "description": "Module 13 lesson",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyork63/wy-just-tech-news.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyork63/wy-just-tech-news/issues"
+  },
+  "homepage": "https://github.com/wyork63/wy-just-tech-news#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.16.1"
+  }
+}
