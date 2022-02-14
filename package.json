@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/wyork63/wy-just-tech-news#readme",
   "dependencies": {
+    "bcrpyt": "^2.0.0",
+    "bcrypt": "^5.0.1",
     "dotenv": "^16.0.0",
     "express": "^4.17.2",
     "mysql2": "^2.3.3",
