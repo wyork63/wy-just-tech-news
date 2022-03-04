@@ -4,7 +4,8 @@
   "description": "Module 13 lesson",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -27,5 +28,8 @@
     "express-session": "^1.17.2",
     "mysql2": "^2.3.3",
     "sequelize": "^6.16.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
   }
 }
